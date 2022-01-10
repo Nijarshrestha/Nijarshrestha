@@ -1,4 +1,4 @@
-# Hi there, I'm Nijar Shrestha
+# Hi there,
 
 - 🔭 I’m currently working at Outside as a Front end developer
 
